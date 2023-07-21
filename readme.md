@@ -1,3 +1,3 @@
 # Kokoa-clone-202307
 
-Make new Kokoa clone File!
+Have to make new Kokoa clone File!
